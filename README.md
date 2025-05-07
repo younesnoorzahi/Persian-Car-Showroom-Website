@@ -4,7 +4,7 @@
 
 ```
 car-web/
-│   img/
+│   images/
       all images in this file
 │   index.html
 |   styles.css
