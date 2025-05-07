@@ -3,7 +3,7 @@
 <p>I'll create a responsive car showroom website with Persian text and RTL (right-to-left) layout using HTML, CSS, and JavaScript.</p>
 
 ```
-fruit-web/
+car-web/
 │   img/
       all images in this file
 │   index.html
